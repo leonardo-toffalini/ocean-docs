@@ -9,18 +9,47 @@ documentation for details.
 ```{toctree}
 :hidden:
 :caption: Introduction
-content/basic_usage
+basic-usage
 ```
 
 ```{toctree}
 :hidden:
 :caption: Environments
+environments/nmmo3
+environments/impulse-wars
+environments/drive
+environments/moba
+environments/terraform
+environments/tower-climb
+environments/drone
+environments/go
+environments/ma-snake
+environments/convert
+environments/enduro
+environments/tetris
+environments/freeway
+environments/pacman
+environments/2048
+environments/breakout
+environments/pong
+environments/blastar
+environments/triple-triad
+environments/robo-warehouse
+environments/trash-pickup
+environments/connect4
+environments/cartpole
+environments/target
+environments/squared
+environments/template
+```
+```{toctree}
+:hidden:
+:caption: WIP Environments
 environments/hardmaze
 ```
 
 ```{toctree}
 :hidden:
 :caption: Development
-release_notes
 Github <https://github.com/pufferai/pufferlib>
 ```
